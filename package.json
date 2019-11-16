@@ -1,0 +1,29 @@
+{
+  "name": "minecraftbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sync-text.js",
+  "scripts": {
+    "bot": "node sync-text.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "child_process": "^1.0.2",
+    "discord": "^0.8.2",
+    "discord.js": "^11.5.1",
+    "mineflayer": "^2.9.6",
+    "mojang-api": "0.0.2",
+    "moment": "^2.24.0",
+    "net": "^1.0.2",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "prismarine-entity": "^0.2.0",
+    "python-bridge": "^1.1.0",
+    "python-shell": "^1.0.8",
+    "utf8": "^3.0.0",
+    "webhook-discord": "^3.5.1"
+  }
+}
